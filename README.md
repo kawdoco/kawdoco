@@ -2,7 +2,7 @@
 Hi 👋 My name is Susara Thenuwara
 =================================
 
-AI + Web + Software Engineer + Computer vision and Astronomy
+AI + Web + Software Engineer + Computer vision and Astronomy Electronics
 ----------------------------------------------------------------------------
 
 *   🌍  I'm based in Japan
